@@ -11,13 +11,15 @@ Heapsort е функција која сортира низи со претва�
 3а 1е12 елементи: не ми работеше.
 
 Лаптоп спецификации:
-     OS           ->   Fedora Linux 44 (Workstation Edition) x86_64
-    󰌢 Machine      ->   Vostro 15 5510
-     Kernel       ->   Linux 7.2.8-200.fc44.x86_64
-     WM           ->   Mutter (Wayland)
-     DE           ->   GNOME 50.5
-     Shell        ->   fish 4.6.0
-     CPU          ->   11th Gen Intel(R) Core(TM) i7-11370H (8) @ 4.80 GHz
-    󰾲 GPU          ->   NVIDIA GeForce MX450 [Discrete]
-    󰾲 GPU          ->   Intel Iris Xe Graphics @ 1.35 GHz [Integrated]
-     Memory       ->   7.62 GiB / 15.35 GiB
+```
+    OS           ->   Fedora Linux 44 (Workstation Edition) x86_64
+    Machine      ->   Vostro 15 5510
+    Kernel       ->   Linux 7.2.8-200.fc44.x86_64
+    WM           ->   Mutter (Wayland)
+    DE           ->   GNOME 50.5
+    Shell        ->   fish 4.6.0
+    CPU          ->   11th Gen Intel(R) Core(TM) i7-11370H (8) @ 4.80 GHz
+    GPU          ->   NVIDIA GeForce MX450 [Discrete]
+    GPU          ->   Intel Iris Xe Graphics @ 1.35 GHz [Integrated]
+    Memory       ->   7.62 GiB / 15.35 GiB
+```
