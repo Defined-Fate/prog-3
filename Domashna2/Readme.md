@@ -23,3 +23,12 @@ Heapsort е функција која сортира низи со претва�
     GPU          ->   Intel Iris Xe Graphics @ 1.35 GHz [Integrated]
     Memory       ->   7.62 GiB / 15.35 GiB
 ```
+
+за да го ранаш кодот на LINUX
+``` fish
+g++ heapify.cpp heap_sort.cpp main.cpp -o heap
+
+./heap
+
+```
+за windows незнам не користам
